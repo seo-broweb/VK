@@ -1,5 +1,5 @@
 {
-    "name": "vladkens/vk",
+    "name": "seo-broweb/vk",
     "type": "library",
     "description": "The PHP class for vk.com API with support OAuth.",
     "keywords": ["vk", "vk.com", "api", "oauth"],
